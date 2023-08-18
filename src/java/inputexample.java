@@ -20,6 +20,6 @@ public class inputexample {
         System.out.println("division= "+div);
         //modulas
         float mod=n%m;
-        System.out.println("modulas="+mod);
+        System.out.println("modulas="+mod+".");
     }
 }
